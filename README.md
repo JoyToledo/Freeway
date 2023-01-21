@@ -17,18 +17,19 @@ Para a conclusão desse projeto, foram aplicadas as seguintes atividades:
 ##
 
 # Diferencial do Projeto
-- Divizão em arquivos, o que ajudou a separar as responsabilbidades de cada objeto, e deixando o código mais limpo e organizado;
+
+- Divisão em arquivos, o que ajudou a separar as responsabilidades de cada objeto, e deixando o código mais limpo e organizado;
 
 ![image](https://user-images.githubusercontent.com/109933014/213886223-ee0612a4-568d-4408-9f69-ef9363fc8f4f.png)
 ##
-- Aplicação de listas para evitar o uso de diversas variaves que deixariam o código mais confuso, como no caso dos carros;
+- Aplicação de listas para evitar o uso de diversas variáveis que deixariam o código mais confuso, como no caso dos carros;
 
 ![image](https://user-images.githubusercontent.com/109933014/213886354-e9c9b860-405b-4a5a-82bb-c46aaeb2e438.png)
 
 ![image](https://user-images.githubusercontent.com/109933014/213886255-e4b0a593-ea00-43db-bb1e-f341d98d3253.png)
 ##
 
-- Utilizando as listas em Laços de repetição, evitando mais uma vez a repetição desnecessaria. e deixando o código mais limpo.
+- Utilizando as listas em Laços de repetição, evitando mais uma vez a repetição desnecessária e deixando o código mais limpo.
 
 ![image](https://user-images.githubusercontent.com/109933014/213886437-be99e76f-e911-4bb5-bbec-2e582faac744.png)
 
@@ -39,5 +40,5 @@ Para a conclusão desse projeto, foram aplicadas as seguintes atividades:
 ![Freeway](https://user-images.githubusercontent.com/109933014/213887436-185fe389-1b6f-4052-94dc-3b0b06bf8cd5.gif)
 
 
-Você també pode jogar ele e testar acessando esse link!
+Você também pode jogar ele e testar acessando esse link!
 https://editor.p5js.org/19joicetoledo/full/lShFqSJAO
